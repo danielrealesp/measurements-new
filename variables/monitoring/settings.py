@@ -1,3 +1,4 @@
+
 """
 Django settings for monitoring project.
 
@@ -80,7 +81,7 @@ DATABASES = {
         'NAME': 'variables_db',
         'USER': 'variables_user',
         'PASSWORD': 'isis2503',
-        'HOST': '0.0.0.0',
+        'HOST': '10.138.0.2',
         'PORT': '5432',
     }
 }
